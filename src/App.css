@@ -1,0 +1,16 @@
+section{
+    font-size: larger;
+    padding: 2rem;
+}
+#seccion1{
+    background-color: aqua;
+}
+#seccion2{
+    background-color: red;
+}
+#seccion3{
+    background-color: blueviolet;
+}
+#seccion4{
+    background-color: coral;
+}
